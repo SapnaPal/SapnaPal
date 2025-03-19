@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi👋🏽%20Everyone!&fontSize=90)"/>
+</p>
 
 <!--
 **SapnaPal/SapnaPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
