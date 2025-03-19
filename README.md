@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi👋🏽%20Everyone!&fontSize=90)"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi👋🏽%20Everyone!&fontSize=30)"/>
 </p>
 
 <a href="https://www.linkedin.com/in/sapna-pal-ns/">
@@ -13,8 +13,9 @@
 </a>
 
 <p align="center">
-  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRseW1xajVyZWxsNG5pa3BsZnlrdmg5bzYzc2dmcTZ0ZGk1anlkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif"/>
+  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0dTZ0M3U1d2xwOG12bDN5cm56ZjYyaDI3d3A4amEwMTNnZzV3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"width="2000"/>
 </p>
+
 
 ```yaml
    👩‍💻 Bioinformatics Researcher
