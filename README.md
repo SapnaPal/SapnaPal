@@ -23,9 +23,12 @@
    😄 Pronouns: She/Her
    ⚡ Currently_learning: ["Multi-omics data analysis, web development, and LLM"]
 ```
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Languages I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/6f60abee-e36a-46a6-83f1-5c047d4f676f" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/e918cc64-c67c-4971-9bee-01d624df743d" alt="php" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/355eeecd-c44b-4465-8078-74016980381b" alt="php" width="45" height="45"/>
 </p>
+
+
