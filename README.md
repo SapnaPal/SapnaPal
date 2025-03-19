@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi👋🏽%20Everyone!&fontSize=90)"/>
 </p>
@@ -13,19 +12,20 @@
   <img height="50" src="https://github.com/user-attachments/assets/0982db09-246b-4039-ace3-fcee2ca58aef"/>
 </a>
 
+<p align="center">
+  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRseW1xajVyZWxsNG5pa3BsZnlrdmg5bzYzc2dmcTZ0ZGk1anlkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif"/>
+</p>
 
-
-<!--
-**SapnaPal/SapnaPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+   👩‍💻 Bioinformatics Researcher
+   🤔 Fields of interests: AL/ML, Genomic Data Analysis, Cheminformatics, Data Science
+   👯 I’m looking to collaborate as a PostDoc
+   😄 Pronouns: She/Her
+   ⚡ Currently_learning: ["Multi-omics data analysis, web development, and LLM"]
+```
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
