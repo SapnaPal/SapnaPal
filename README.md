@@ -12,9 +12,9 @@
   <img height="50" src="https://github.com/user-attachments/assets/0982db09-246b-4039-ace3-fcee2ca58aef"/>
 </a>
 
-<p align="center">
+<!--p align="center">
   <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0dTZ0M3U1d2xwOG12bDN5cm56ZjYyaDI3d3A4amEwMTNnZzV3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"width="2000"/>
-</p>
+</p-->
 
 
 ## 👩‍💻 Bioinformatics Researcher
