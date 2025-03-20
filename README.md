@@ -17,13 +17,12 @@
 </p>
 
 
-```yaml
-   👩‍💻 Bioinformatics Researcher
-   🤔 Fields of interests: AL/ML, Genomic Data Analysis, Cheminformatics, Data Science
-   👯 I’m looking to collaborate as a PostDoc
-   😄 Pronouns: She/Her
-   ⚡ Currently_learning: ["Multi-omics data analysis, web development, and LLM"]
-```
+## 👩‍💻 Bioinformatics Researcher
+## 🤔 Fields of interests: AL/ML, Genomic Data Analysis, Cheminformatics, Data Science
+## 👯 I’m looking to collaborate as a PostDoc
+## 😄 Pronouns: She/Her
+## ⚡ Currently_learning: ["Multi-omics data analysis, web development, and LLM"]
+
 <h2> 🚀 &nbsp;Some Languages I Have Used and Learned</h2>
 <p align="left">
 <img src="https://github.com/user-attachments/assets/6f60abee-e36a-46a6-83f1-5c047d4f676f" alt="vscode" width="45" height="45"/>
